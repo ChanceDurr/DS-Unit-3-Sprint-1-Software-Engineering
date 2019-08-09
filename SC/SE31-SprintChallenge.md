@@ -270,6 +270,18 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+Well, I have not ever done code reviews before, so this question is a little
+tough to answer. I imagine the most important part of code review is to check
+if someones code is reproducible, easy to maintain, and move from place to place.
+If I was to code review for someone I would probably look for ways to make their
+code more efficent and less cluttered. For example, say they are doing something with
+3 nested for loops when I know that there is a function for that, I'll let them know.
+I hope someone would do the same thing for me.
+Containers could help us improve the situation by getting rid of as many variables as possible.
+For example, just because the code runs on one operating system doesn't mean that it runs on all.
+It will also help if someone else is running a different version of a package then you are. With
+containers everybody is on all of the same things.
+
 ### Part 8 - Turn it in!
 
 Add all the files you wrote (`acme.py`, `acme_report.py`, and `acme_test.py`),
